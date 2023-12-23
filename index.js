@@ -45,7 +45,7 @@ const myDictionary = {
   "chidanandap999@gmail.com" : "Chidananda ",
   "hchallag@gmail.com" : "Hemanth",
   "madhasatish25@gmail.com" : "M.Sathish",
-  "singupurapuudaykiran@gmail.com" : " Uday Kiran",
+  "singupurapuudaykiran@gmail.com" : "Uday Kiran",
   "bhanu@gmail.com" : "Bhanu",
   "razak@gmail.com" : "Razak",
   "santhosh@gmail.com" : "Santhosh"
