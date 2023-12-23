@@ -48,7 +48,8 @@ const myDictionary = {
   "singupurapuudaykiran@gmail.com" : "Uday Kiran",
   "bhanu@gmail.com" : "Bhanu",
   "razak@gmail.com" : "Razak",
-  "santhosh@gmail.com" : "Santhosh"
+  "santhosh@gmail.com" : "Santhosh",
+  "host@gmail.com" : "Host"
   };
 
   const pairs = {"KILLI BEBI RANI" : "Srinath",
