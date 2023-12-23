@@ -30,9 +30,18 @@ const myDictionary = {
 "manaswinikinnera1234@gmail.com"	: "Manaswini ",
 "divyakadari121@gmail.com"	: "Divya",
 "makkenapravallika777@gmail.com"	: "Pravallika.M",
-"p.upendra8010@gmail.com" : "	Upendra",
-"bhavanipadala430@gmail.com"	: "PADALA BHAVANI ",
-"sing@gmail.com" : "uday"
+"p.upendra8010@gmail.com" : "Upendra",
+"bhavanipadala430@gmail.com"	: "PADALA BHAVANI",
+"shaikreshma7979@gmail.com" : "Shaik Reshma",
+"gowthaminarayanasetti850@gmail.com" : "Narayanasetti Gowthami ",
+"varalaxmiganta066@gmail.com" : "Ganta Varalaxmi",
+"ramuraparthi193@gmail.com" : "Ram",
+"ladduc177@gmail.com" : "Laddu",
+"abhishekweslee@gmail.com" : "Abhishek john weslee Malaka",
+"natarajaddagatla@gmail.com" : "Nataraj",
+"srinathtingilkar@gmail.com" : "Srinath",
+"tejaschandradesaboina@gmail.com" :	"Tejas",
+"deepakvemula16@gmail.com" :	"Deepak vemula"
   };
 
   const pairs = {
