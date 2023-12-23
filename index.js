@@ -45,9 +45,47 @@ const myDictionary = {
   };
 
   const pairs = {
-    "uday" : "din",
-    "din" : "uday"
-  }
+"KILLI BEBI RANI" : "Srinath",
+"Deepak vemula" : "Nataraj",
+"Ganta Varalaxmi" : "KANCHAMIREDDY DHANUSH KUMAR REDDY",
+"Abhishek john weslee Malaka" : "Sneha V",
+"Srinath" : "Akhila K",
+"Nataraj" : "Manaswini",
+"KANCHAMIREDDY DHANUSH KUMAR REDDY" : "Suresh Naidu",
+"Sneha V" : "Navyasri",
+"Akhila K" : "Pabbisetty Dinesh",
+"Manaswini" : "Seerapu kali",
+"Suresh Naidu" : "V Maidhile",
+"Navyasri" : "Charitha",
+"Pabbisetty Dinesh" : "Anudeep",
+"Seerapu kali" : "Vinod",
+"V Maidhile" : "Ram",
+"Charitha" : "Sainath",
+"Anudeep" : "Narayanasetti Gowthami",
+"Vinod" : "PADALA BHAVANI",
+"Ram" : "Divya",
+"Sainath" : "Sri jyothsna",
+"Narayanasetti Gowthami" : "Santhoshi Kumari",
+"PADALA BHAVANI" : "Nedula Pravalika Reddy",
+"Divya" : "Krishna Priya",
+"Sri jyothsna" : "S Swetha",
+"Santhoshi Kumari" : "Surendra Kumar",
+"Nedula Pravalika Reddy" : "Upendra",
+"Krishna Priya" : "Pravallika.M",
+"S Swetha" : "M Saibhanu",
+"Surendra Kumar" : "Shaik Reshma",
+"Upendra" : "Tejas",
+"Pravallika.M" : "I. Padmavathi",
+"M Saibhanu" : "S.Lochani",
+"Shaik Reshma" : "Bandi prudhvi",
+"Tejas" : "ARAVAPALLI KEERTANA",
+"I. Padmavathi" : "Nithisha",
+"S.Lochani" : "Sravya",
+"Bandi prudhvi" : "KILLI BEBI RANI",
+"ARAVAPALLI KEERTANA" : "Deepak vemula",
+"Nithisha" : "Ganta Varalaxmi",
+"Sravya" : "Abhishek john weslee Malaka",
+}
 
 
 
