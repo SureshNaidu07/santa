@@ -44,7 +44,7 @@ const myDictionary = {
 "deepakvemula16@gmail.com" :	"Deepak vemula"
   };
 
-  const pairs = {
+const pairs = {
 "KILLI BEBI RANI" : "Srinath",
 "Deepak vemula" : "Nataraj",
 "Ganta Varalaxmi" : "KANCHAMIREDDY DHANUSH KUMAR REDDY",
